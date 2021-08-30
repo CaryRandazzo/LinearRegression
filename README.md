@@ -1,2 +1,2 @@
 # Project Storage for 'The Walk of Data Science' Blog
-### Post 1: LinearRegression
+## Episode Series 1 - Linear Regression
