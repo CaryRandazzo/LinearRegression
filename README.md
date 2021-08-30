@@ -1,2 +1,2 @@
 # Episode Series - Linear Regression
-## Episode(Post) 1
+### Episode(Post) 1
