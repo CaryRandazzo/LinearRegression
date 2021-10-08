@@ -1,0 +1,137 @@
+Introduction to Bayesian Linear Regression: An explanation of the Bayesian approach to linear modeling
+(bayesian vs frequentist argument - argues to learn both approaches, look at advantages/disadvantages of both and choose accordingly)
+
+recap of frequentist linear regression
+ theory/methodology
+ example on real world data
+ 
+Bayesian Linear Regression
+
+Implementing Bayesian Linear Regression
+Bayesian Linear Modelling Application
+
+conclusions
+
+Sources (uses weak references, better to choose rsrch papers and books)
+
+----------------
+Simple and Multipe Linear Regression in Python
+Quick introduction to linear regression in Python
+
+Intro
+-previous work / plugs
+-what we are doing in this post
+-how this post fits in with future posts
+-what precisely we are doing, item by item in this post
+-what is 'main topic', definition and explanation
+
+A little bit about the math
+
+Linear Regression in Python
+-Linear Regresion in Statsmodels
+--use real world dataset, some exploration done
+-Linear regression in sklearn
+--use same real world dataset
+
+Conclusion
+
+-----------------
+Introduction to Machine Learning Algorithms: Linear Regression
+Build your own model from scratch
+
+Intro/discussion
+
+What is Linear regression??
+- graphics/gifs posted
+- what is regression
+- simple linear regression
+
+Cost Function
+
+Gradient Descent
+- objective
+- basic idea
+- graphic
+- expanation/analogy, parameters and their explanations
+
+Code
+- details on which method we will use (sklearn and scratch)
+- more graphics and gifs
+- real world dataset brought in
+- visualization of what the data looks like in the dataset
+- the sklearn method and a small amount of detail of what the code is doing
+- print out r2 as supposed measure of accuracy of model
+- gradient descent method and details about what its doing/code
+- print out of r2 as supposed mesuare of acc of model
+- visualization of regression lines over dataset
+
+Conclusion(weak)
+- importance of LR for ML enthusiasts
+- comment about its usefullness
+- trivial courtesy
+
+----------------------------------------
+General Model Template I've Decided on:
+
+(INTRO    :tell them what you will tell them, 
+BODY      :tell them, 
+CONCLUSION:tell them what you told them)
+
+1. Decide on a topic area
+2. Decide on a main point/thesis to argue for, and/or main objective(s) of the blog post
+3. Do Research and draw up a scope for the blogpost
+- what are my options for important information to include
+- what of that information will I actually include and how does it fit in the grand scheme of my main point/thesis
+4. Start with the Body Sections
+- based on the main point/thesis, what sections will the body include? (section name, (objective)purpose of the section vs main point, math that will be included, basic idea,  graphics/visualizations that will be included, explanation/analogy and deeper detail
+5. Determine an appropriate real world dataset to use for the post
+-find it
+-reference it at the end in references
+-do some exploratory analysis for it as you introduce it
+6. Write up the references/sources section
+7. Write up the conclusion/discussion section for the end
+8. Write up the introduction (based on main point/thesis)
+
+-----------------------------
+Application of the above template:
+
+SERIES OUTLINE:
+
+EXAMPLE POST NAME:
+Machine Learning Theory and Application Volume 1: Linear Regression
+Part 1 - Univariate Linear Regression Post#1
+
+Research on EVERYTHING in this topic area(to eventually write on):
+...
+...
+...
+
+Part 1 - Intro to Univariate Linear Regresion and the Algebraic Solution Method in Python
+Part 2 - Univariate Linear Regression and the QR Decomposition Solution Method in Python
+Part 3 - Univariate Linear Regression and the SVD Solution Method in Python
+Part 4 - Univariate Linear Regression's SVD Solution Method compared to sklearn's Solution Method
+Part 5 - Univariate Linear Regression and the Gradient Descent Solution Method in Python
+Part 6 - Univariate Linear Regression and the Cov Matrix Solution Method in Python
+Part 7 - Evaluating Linear Regression Models
+Part 8 - Choosing the Best Linear Regression Solution Method to Fit an Application
+-various estimation techniques
+Part 9 - Linear Regression Applications and Case Studies
+- waves on a string
+- ohms law
+- rc circuit
+- ideal gas law
+- velocity vs time of 0-80%(peak velocity length) extension (that is 80% of the max distance travelled x) of a martial arts punch in motion
+- 0 to peak current of lightning bolt / EMP
+
+
+1. Topic Area = Simple Linear Regression / Univariate LR
+2. main point / thesis / main objectives
+- To give the reader both a basic and advanced understanding of the inner workings of linear regression
+- To give the reader theory/methodology to construct Linear Regression from scratch (direct, qr, svd, sklearn, gd, cov) in python
+- To give the reader the tools/skills necessary to decide which linear regression method is best to use for their specific real world dataset
+- 
+
+8. Introduction
+- intro discussion
+- in general, what our main point / thesis is for this topic
+- "After completing this tutorial you will know..."
